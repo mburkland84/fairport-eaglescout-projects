@@ -5,4 +5,4 @@ Most data was gathered by word of mouth through Evan Burnett. Original data poin
 
 This is just a personal project to tour my hometown before moving away but future data additions and usage of data for other projects are welcome.
 
-Let me know if you use the data though and send me a link to the project.
+Let me know if you use the data though and send me a link to the project. I'd love to see it!
