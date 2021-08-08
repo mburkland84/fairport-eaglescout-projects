@@ -1,0 +1,160 @@
+{
+	"type":"FeatureCollection",
+	"features":[
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-77.43080377578735,
+          			43.08069032055477]
+			},
+			"properties":{
+				"Type":"Bench",
+				"Scout First Name":"Evan",
+				"Scout Last Name":"Burnett",
+				"Troop #":"208",
+				"Year Completed":"2015",
+				"Description":"Three benches along the walking path around Center Park",
+				"Picture": "/assets/pictures/BurnettBench.jpg"
+			}
+		},
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-77.43012249469757,
+          			43.0855721169686]
+			},
+			"properties":{
+				"Type":"Rain Barrels",
+				"Scout First Name":"Unknown",
+				"Scout Last Name":"Unknown",
+				"Troop #":"208",
+				"Year Completed":"Unknown",
+				"Description":"Rain barrels and gutters to collect rain water behind a shed at St. Mary's Cemetery",
+				"Picture": "/assets/pictures/RainBarrels.jpg"
+			}
+		},
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-77.47710943222046,
+          			43.07685435047453
+				]
+			},
+			"properties":{
+				"Type":"Garden",
+				"Scout First Name":"Chris",
+				"Scout Last Name": "Reed",
+				"Troop #":"208",
+				"Year Completed":"Unknown",
+				"Description":"Community Garden in front of St. John's Catholic Church. Consists of multiple raised garden beds and a chicken wire fence with a gate",
+				"Picture": "/assets/pictures/ReedGarden.jpg"
+			}
+		},
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-77.47086524963379,
+          			43.06398897162693]
+			},
+			"properties":{
+				"Type":"Pavilion",
+				"Scout First Name":"Unknown",
+				"Scout Last Name":"Unknown",
+				"Troop #":"208",
+				"Year Completed":"2015",
+				"Description":"Repainted a pavilion at Kreag Road Park",
+				"Picture": "/assets/pictures/KreagPavilion.jpg"
+			}
+		},
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-77.47126489877701,
+          			43.06443477885018]
+			},
+			"properties":{
+				"Type":"Bench",
+				"Scout First Name":"Scott",
+				"Scout Last Name":"Land",
+				"Troop #":"209",
+				"Year Completed":"2009",
+				"Description":"Two benches canalside at Kreag Road Park",
+				"Picture": "/assets/pictures/LandBench.jpg"
+			}
+		},
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-77.42476344108582,
+          			43.11061165236496]
+			},
+			"properties":{
+				"Type":"Gazebo",
+				"Scout First Name":"Alex",
+				"Scout Last Name":"Busch",
+				"Troop #":"208",
+				"Year Completed":"201?",
+				"Description":"Repainted and remulched gazebo",
+				"Picture": ""
+			}
+		},
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-77.43802696466446,
+          			43.095879030332114]
+			},
+			"properties":{
+				"Type":"Signs",
+				"Scout First Name":"Will",
+				"Scout Last Name":"",
+				"Troop #":"207",
+				"Year Completed":"",
+				"Description":"",
+				"Picture": ""
+			}
+		},
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+				-77.39892572164536,
+          		43.05943861315439]
+			},
+			"properties":{
+				"Type":"Trail Improvement",
+				"Scout First Name":"Luke",
+				"Scout Last Name":"McDaniel",
+				"Troop #":"207",
+				"Year Completed":"",
+				"Description":"Twenty wooden posts on the ground to divert run off water on the trails behind Lollypop Farm",
+				"Picture": ""
+			}
+		},
+		{	"type":"Feature",
+		 	"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-77.40444302558899,
+          			43.09028311261183
+				]
+			},
+			"properties":{
+				"Type":"Bleachers",
+				"Scout First Name":"Andrew",
+				"Scout Last Name":"Aufderheide",
+				"Troop #":"208",
+				"Year Completed":"2015",
+				"Description":"Dug out sod underneath bleachers, replaced it, and replaced the bleachers",
+				"Picture": ""
+			}
+		}
+	]
+}
